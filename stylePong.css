@@ -1,0 +1,10 @@
+﻿#canvas {
+    position: absolute;
+    background-color: black;
+    background-image: url(fundo.gif); 
+    margin-top: 00px;
+    margin-left: 00px;
+    left: 3%;
+    top: 0%
+
+}
